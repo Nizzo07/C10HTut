@@ -1,0 +1,5 @@
+{
+    "files.associations": {
+        "avx512vlbwintrin.h": "c"
+    }
+}

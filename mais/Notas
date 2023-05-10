@@ -1,0 +1,16 @@
+- O comando "srand(time(NULL)) é uma funcao em C/C++ q é usada para iniializar o gerador de numeros pseudo-aleatorios";
+
+- switch statements sao so utilizaveis quando trabalhamos com int's, nao há ranges e quando as opcoes sao limitadas;
+
+- O Ternario é uma forma engraçada de usar um if statement mas sinto que para coisas mais complexas nao deve funcionar;
+
+-
+
+-
+
+-
+
+
+-Input Stream:
+    Quando escrevemos na consola, o que foi escrito vai para uma localizaçao temporaria, deixa nos guardar temporariamente "Data" para designar variaveis. Isto é chamado de input stream ou de Buffer.
+    
