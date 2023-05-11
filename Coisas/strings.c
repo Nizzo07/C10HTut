@@ -5,17 +5,14 @@
 int main()
 {
    printf("What is your favorite food: ");
-   char favFood[68];
+   char favFood[50];
+   
    scanf("%49s", favFood);
    printf("%s\n", favFood);
 
 
-    int Charcount = 0;
+    int Charcount = strlen(favFood);
 
-    while (favFood[Charcount] != '\0')
-    {
-        Charcount++;
-    }
 
     printf("The character count is %d\n", Charcount);
 
