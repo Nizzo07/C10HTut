@@ -4,7 +4,7 @@
 
 - O Ternario é uma forma engraçada de usar um if statement mas sinto que para coisas mais complexas nao deve funcionar;
 
--
+- null char = '\0'!= NULL;
 
 -
 
