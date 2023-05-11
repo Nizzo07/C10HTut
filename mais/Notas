@@ -6,11 +6,11 @@
 
 - null char = '\0'!= NULL;
 
--
+- 
 
 -
 
 
 -Input Stream:
-    Quando escrevemos na consola, o que foi escrito vai para uma localizaçao temporaria, deixa nos guardar temporariamente "Data" para designar variaveis. Isto é chamado de input stream ou de Buffer.
+    Quando escrevemos na consola, o que foi escrito vai para uma localizaçao temporaria, deixa nos guardar temporariamente "Data" para designar variaveis. Isto é chamado de input stream ou de Buffer;
     
